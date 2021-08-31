@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "googleapis": "^84.0.0",
+    "query-string": "^7.0.1"
+  },
+  "name": "medium",
+  "version": "1.0.0",
+  "main": "google-util.js",
+  "scripts": {
+    "type": "module",
+    "start": "node google-util.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
